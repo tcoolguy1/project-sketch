@@ -14,5 +14,6 @@ body {
     margin-right: 400px;
 }
 #sketch_to_be_drawn {
-    color: white;
+    color: red;
+    font-size: 25px;
 }
